@@ -1,3 +1,8 @@
+body {
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 900px;
+}
 h1 {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 24px;
@@ -39,7 +44,3 @@ pre {
     line-height: 18.5714302062988px;
 }
 
-body {
-    margin-left: 40px;
-    width: 900px;
-}
